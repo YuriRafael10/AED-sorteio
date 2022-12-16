@@ -1,0 +1,16 @@
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\bin\Debug\net5.0\TrabalhoSorteio.exe
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\bin\Debug\net5.0\TrabalhoSorteio.deps.json
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\bin\Debug\net5.0\TrabalhoSorteio.runtimeconfig.json
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\bin\Debug\net5.0\TrabalhoSorteio.runtimeconfig.dev.json
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\bin\Debug\net5.0\TrabalhoSorteio.dll
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\bin\Debug\net5.0\ref\TrabalhoSorteio.dll
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\bin\Debug\net5.0\TrabalhoSorteio.pdb
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\obj\Debug\net5.0\TrabalhoSorteio.csproj.AssemblyReference.cache
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\obj\Debug\net5.0\TrabalhoSorteio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\obj\Debug\net5.0\TrabalhoSorteio.AssemblyInfoInputs.cache
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\obj\Debug\net5.0\TrabalhoSorteio.AssemblyInfo.cs
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\obj\Debug\net5.0\TrabalhoSorteio.csproj.CoreCompileInputs.cache
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\obj\Debug\net5.0\TrabalhoSorteio.dll
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\obj\Debug\net5.0\ref\TrabalhoSorteio.dll
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\obj\Debug\net5.0\TrabalhoSorteio.pdb
+C:\Users\yuriz\source\repos\TrabalhoSorteio\TrabalhoSorteio\obj\Debug\net5.0\TrabalhoSorteio.genruntimeconfig.cache
